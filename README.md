@@ -1,7 +1,5 @@
 # MU Pointer Pro 🎓
 
-![MU Pointer Pro](https://raw.githubusercontent.com/ani-coder01/MU-GradePath/main/public/preview.png)
-
 A modern, fast, and privacy-focused SGPI/CGPI Calculator & Grade Predictor built specifically for Mumbai University (MU) Engineering students (REV-2019 C-Scheme). 
 
 Live Demo: [https://mu-pointer-pro.vercel.app](https://mu-pointer-pro.vercel.app) *(Replace with your actual Vercel domain)*
